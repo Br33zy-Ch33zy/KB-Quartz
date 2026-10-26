@@ -1,7 +1,6 @@
-# 🛡️ Cybersecurity & Penetration Testing Knowledge Base
-
-Welcome to my personal cybersecurity knowledge base. This repository serves as a central documentation hub for my learning journey in penetration testing, ethical hacking, and network security.
-
+---
+title: "🛡️ Cybersecurity & Penetration Testing Knowledge Base"
+description: "Welcome to my personal cybersecurity knowledge base."
 ---
 
 ## 📂 Vault Structure
