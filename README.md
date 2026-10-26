@@ -1,17 +1,23 @@
-# Quartz v5
+# 🛡️ Cybersecurity & Penetration Testing Knowledge Base
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Welcome to my personal cybersecurity knowledge base. This repository serves as a central documentation hub for my >
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+---
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## 📂 Vault Structure
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+The repository follows a structured and modular layout, designed to scale with ongoing learning:
 
-## Sponsors
+- **00 Meta/** – Templates, images, assets, and notes.
+- **01 Methodology/** – Core frameworks and vendor-agnostic methodology applied during security assessments.
+- **02 Knowledge/** – Technical documentation of architectures, protocols, systems, and applications.
+- **03 Tools/** – Cheatsheets, scripts, and practical reference guides for pentesting tools.
+- **04 Labs/** – Writeups and documentation for CTF challenges and lab environments (e.g., Hack The Box, TryHackMe>
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## 🎯 Purpose & Goals
+
+- Documenting practical cybersecurity hands-on experience.
+- Establishing repeatable testing methodologies for security assessments.
+- Creating a fast-reference technical cheatsheet for labs and certifications.
+
+
