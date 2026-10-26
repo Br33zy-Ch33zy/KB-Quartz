@@ -1,8 +1,3 @@
-                                            
----
-title: Welcome to my Knowledge Base
----
-
 # 🛡️ Cybersecurity & Penetration Testing Knowledge Base
 
 Welcome to my personal cybersecurity knowledge base. This repository serves as a central documentation hub for my >
