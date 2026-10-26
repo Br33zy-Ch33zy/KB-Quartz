@@ -1,7 +1,8 @@
 ---
 title: "🛡️ Cybersecurity & Penetration Testing Knowledge Base"
-description: "Welcome to my personal cybersecurity knowledge base."
 ---
+
+Welcome to my personal cybersecurity knowledge base.
 
 ## 📂 Vault Structure
 
